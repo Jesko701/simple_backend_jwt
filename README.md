@@ -5,4 +5,5 @@
 php artisan migrate
 php -S localhost:{desired port number} -t public
 ```
+this project is using Lumen as backend
 
